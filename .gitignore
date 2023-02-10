@@ -2,6 +2,8 @@
 __pycache__/
 *.py[cod]
 *$py.class
+pysimplegui
+
 
 # C extensions
 *.so
